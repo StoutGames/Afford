@@ -1,0 +1,13 @@
+.suo
+.vcxproj
+.filters
+.obj
+.idb
+.log
+.pdb
+.lastbuildstate
+.tlog
+.log
+.opensdf
+.sdf
+.sln
