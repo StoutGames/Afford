@@ -1,5 +1,4 @@
 .suo
-.vcxproj
 .filters
 .obj
 .idb
@@ -11,3 +10,7 @@
 .opensdf
 .sdf
 .sln
+.exe
+.ilk
+.lib
+.user

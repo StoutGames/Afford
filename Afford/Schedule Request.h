@@ -9,10 +9,8 @@ namespace Stout {
 namespace Afford {
 namespace Base {
 
-	class ScheduleTron {
+	class ScheduleRequest {
 	public:
-		ScheduleTron();
-		~ScheduleTron();
 	};
 
 }

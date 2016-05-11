@@ -2,12 +2,11 @@
 //
 
 #include "stdafx.h"
-
 #include "Afford\Scheduletron.h"
 
 int main()
 {
-	Afford::Base::
+	Stout::Afford::Base::ScheduleTron tron;
 
     return 0;
 }

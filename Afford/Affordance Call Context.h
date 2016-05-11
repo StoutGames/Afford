@@ -6,8 +6,11 @@ namespace Stout {
 namespace Afford {
 namespace Base {
 
-	class Affordance {
+	class IAffordanceCallContext {
+	protected:
+		~IAffordanceCallContext();
 
+	public:
 	};
 
 }
