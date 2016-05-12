@@ -6,12 +6,12 @@ namespace Stout {
 namespace Afford {
 namespace Base {
 
-	class IAffordanceCallContext {
-	protected:
-		~IAffordanceCallContext();
-
-	public:
+	class Node
+	{
 	};
+
+	#define ST_AF_DECLARE_NODE(name)
+	#define ST_AF_DEFINE_NODE(name)
 
 }
 }

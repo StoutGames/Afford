@@ -136,13 +136,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Affordance.cpp" />
-    <ClCompile Include="Affordance Call Context.cpp" />
+    <ClCompile Include="Node.cpp" />
     <ClCompile Include="Schedule Request.cpp" />
     <ClCompile Include="Scheduletron.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Affordance.h" />
-    <ClInclude Include="Affordance Call Context.h" />
+    <ClInclude Include="Node.h" />
     <ClInclude Include="Schedule Request.h" />
     <ClInclude Include="Scheduletron.h" />
   </ItemGroup>
