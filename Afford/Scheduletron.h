@@ -1,5 +1,6 @@
 #pragma once
 
+#include "Afford/Node.h"
 #include "Afford/Affordance.h"
 #include "Afford/Schedule Request.h"
 
@@ -9,10 +10,12 @@ namespace Stout {
 namespace Afford {
 namespace Base {
 
-	class ScheduleTron {
+	class Scheduletron {
 	public:
-		ScheduleTron();
-		~ScheduleTron();
+		Scheduletron();
+		~Scheduletron();
+
+		void	MagicPushScheduleRequest(Stout::Afford::Base::ScheduleRequest&);
 	};
 
 }

@@ -2,10 +2,14 @@
 
 using namespace Stout::Afford::Base;
 
-ScheduleTron::ScheduleTron()
+Scheduletron::Scheduletron()
 {
 }
 
-ScheduleTron::~ScheduleTron()
+Scheduletron::~Scheduletron()
+{
+}
+
+void Scheduletron::MagicPushScheduleRequest(ScheduleRequest &)
 {
 }
